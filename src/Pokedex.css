@@ -1,0 +1,13 @@
+html {
+    font-size: 62.5%;
+}
+
+.Pokedex {
+    max-width: 90rem;
+    margin: auto;
+}
+
+.Pokedex-h1 {  
+    display: flex;
+    justify-content: center;
+    }
